@@ -7,14 +7,14 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
 - 🌱 I’m currently learning: 
   -   Distributed Systems (MIT-6.824)
 
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=MIT-6-824)](https://github.com/anuraghazra/github-readme-stats)
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=MIT-6-824&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
   -   Databases (UCSD 132A/B/C 232B, CMU 15-445/645 15-721, UCB CS W186)
 
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmudb&repo=bustub)](https://github.com/anuraghazra/github-readme-stats)
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmu-db&repo=bustub&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
       
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=CMU-15-721)](https://github.com/anuraghazra/github-readme-stats)
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=CMU-15-721&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
       
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=UCSD-CSE132C-232B)](https://github.com/anuraghazra/github-readme-stats)
+      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=UCSD-CSE132C-232B&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
       
 - 🌱 I’m currently reading the following paper: 
   - 1987, [The 5 Minute Rule for Trading Memory for Disc Accesses and the 5 Byte Rule for Trading Memory for CPU Time](https://www.hpl.hp.com/techreports/tandem/TR-86.1.pdf), SIGMOD
@@ -56,6 +56,6 @@ Other    21 mins         ▒░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-[![howardlau1999's github stats](https://github-readme-stats.vercel.app/api?username=howardlau1999)](https://github.com/anuraghazra/github-readme-stats)
+[![qidian99's github stats](https://github-readme-stats.vercel.app/api?username=qidian99&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardlau1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
