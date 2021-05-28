@@ -11,8 +11,11 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
   -   Databases (UCSD 132A/B/C 232B, CMU 15-445/645 15-721, UCB CS W186)
   -   
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmudb&repo=bustub)](https://github.com/anuraghazra/github-readme-stats)
+      
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=CMU-15-721)](https://github.com/anuraghazra/github-readme-stats)
+      
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=UCSD-CSE132C-232B)](https://github.com/anuraghazra/github-readme-stats)
+      
 - 🌱 I’m currently reading the following paper: 
   - 1987, [The 5 Minute Rule for Trading Memory for Disc Accesses and the 5 Byte Rule for Trading Memory for CPU Time](https://www.hpl.hp.com/techreports/tandem/TR-86.1.pdf), SIGMOD
   - 2008, [The Five Minute Rule 20 Years Later and How Flash Memory Changes the Rules](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.227.3846&rep=rep1&type=pdf), ACM Queue
