@@ -6,10 +6,10 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
 - 🔭 I’m currently a novice pursuing a career in database
 - 🌱 I’m currently learning: 
   -   Distributed Systems (MIT-6.824)
-  -   
+
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=MIT-6-824)](https://github.com/anuraghazra/github-readme-stats)
   -   Databases (UCSD 132A/B/C 232B, CMU 15-445/645 15-721, UCB CS W186)
-  -   
+
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmudb&repo=bustub)](https://github.com/anuraghazra/github-readme-stats)
       
       [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qidian99&repo=CMU-15-721)](https://github.com/anuraghazra/github-readme-stats)
