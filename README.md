@@ -43,6 +43,7 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/qidian99)](https://badges.pufler.dev)
 
 ⏱ Weekly Development Breakdown
+
 [![qidian99's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qidian99&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
