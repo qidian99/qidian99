@@ -3,7 +3,6 @@ I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/
 
 - 🤔 I'm a graduate at UC San Diego with a dual degree in Computer Science and Mathematics (Applied), (AoS Economics and Philosophy)
 
-- 🔭 I’m currently a novice pursuing a career in database
 - 🌱 I’m currently learning: 
   -   Distributed Systems (MIT-6.824)
 
