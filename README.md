@@ -1,14 +1,11 @@
 ### Hi there 👋
 Work hard work hard work hard work hard work hard :)
 
-💻 Coding Activity Logging
+💻 Top Languages
 
-[![Commits Badge](https://badges.pufler.dev/commits/weekly/qidian99)](https://badges.pufler.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qidian99&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ⏱ Weekly Development Breakdown
-
-[![qidian99's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=qidian99&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![qidian99's github stats](https://github-readme-stats.vercel.app/api?username=qidian99&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
